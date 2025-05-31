@@ -6,8 +6,10 @@ Use this pre-cofigured HTML, CSS template to start making a page right away!
 > Metadata Template
 
 ```bash
-cd html-template
 git clone https://github.com/dumxrg/HTML-Template/
+```
+```bash
+cd HTML-Template
 ```
 
 https://dumxrg.github.io/HTML-Template/
